@@ -1,0 +1,3 @@
+- 🌱 Hi, I’m @rmoscuba
+- 👨🏻‍💻 Team player; full-stack developer with professional experience in DevOps, ETL; backend programming with Python, Django, Flask, PHP, .Net; frontend with HTML, CSS, JavaScript, Vue, React. 
+- https://www.linkedin.com/in/rodolfo-ortega-santiesteban/
